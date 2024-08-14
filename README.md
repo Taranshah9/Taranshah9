@@ -34,8 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,c,javascript,react,flask,fastapi,selenium,git,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=tf,pytorch,keras,opencv,numpy,pandas,scikit,matplotlib,seaborn,tensorboard,jupyter,html,css,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,c,javascript,react,flask,fastapi,selenium,git,vscodetf,pytorch,keras,opencv" /><br>
 </div>
 
 <br/>
