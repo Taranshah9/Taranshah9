@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **PDF Retrieval Chatbot**
+ 🔭 I’m currently working on **Learning Reinforcement and Deep Q-Learning**
  
  🌱 I’m currently learning **LLMs and Computer Vision**
 
